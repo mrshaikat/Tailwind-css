@@ -38,8 +38,8 @@ chek node version
   }
 }
 
-### create index.html and link ./output/tailwind.css
- <link href="./output/tailwind.css">
+### create index.html and link =  ./output/tailwind.css
+####  href="./output/tailwind.css
 
 
 ### npm run build 
